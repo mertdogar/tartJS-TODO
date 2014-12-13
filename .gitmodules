@@ -1,0 +1,6 @@
+[submodule "src/lib/tartJS"]
+	path = src/lib/tartJS
+	url = git@github.com:tart/tartJS.git
+[submodule "src/js/lib/tartJS"]
+	path = src/js/lib/tartJS
+	url = git@github.com:tart/tartJS.git
